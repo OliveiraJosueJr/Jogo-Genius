@@ -3,4 +3,4 @@
 
 
 ## Essa é uma aplicação de JavaScript baseada no famoso jogo Genius.
-### @Digital Inovation One
+### @Digital Innovation One
